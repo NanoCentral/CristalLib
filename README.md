@@ -1,0 +1,2 @@
+# CristalLib
+C++ Made Easier!
